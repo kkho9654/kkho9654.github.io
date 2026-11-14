@@ -1,0 +1,1 @@
+var e=e=>[...e.filter(e=>e.tier===`lead`),...e.filter(e=>e.tier!==`lead`)],t=t=>e(t)[0]?.name??``;export{e as n,t};
