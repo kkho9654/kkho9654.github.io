@@ -1,0 +1,1 @@
+var e=/^[+-]?(\d+\.?\d*|\.\d+)$/,t=e=>e.replace(/[０-９]/g,e=>String.fromCharCode(e.charCodeAt(0)-65248)).replace(/[．]/g,`.`).replace(/[＋]/g,`+`).replace(/[－−]/g,`-`);export{t as n,e as t};
