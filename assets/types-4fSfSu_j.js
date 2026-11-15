@@ -1,0 +1,1 @@
+var e=[`narration`,`progress`,`userRole`,`secrets`,`format`],t=[`pace`,`agency`,`choices`,`length`,`secrets`,`format`],n={pace:`전개 속도`,agency:`이용자 주도권과 대필 금지`,choices:`선택지 제시`,length:`분량과 문체`,secrets:`비밀 다루기`,format:`출력 형식`};export{n,e as r,t};

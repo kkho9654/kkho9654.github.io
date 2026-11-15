@@ -1,0 +1,1 @@
+var e=10485760,t=[`system_prompt`,`post_history_instructions`],n={system_prompt:`시스템 지시`,post_history_instructions:`대화 뒤 지시(보강 문구)`};export{t as n,n as r,e as t};
