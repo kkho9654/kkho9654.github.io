@@ -1,0 +1,1 @@
+var e=/^[a-z0-9가-힣_-]{1,24}$/,t=15728640,n=33e6,r=15e5,i=1280,a=1024,o=25165824,s=83886080,c=52428800;export{t as a,a as c,e as i,r as l,o as n,n as o,c as r,i as s,s as t};

@@ -1,0 +1,1 @@
+var e=1024,t=e*1024;function n(n){return n>=t?{value:(n/t).toFixed(1),unit:`MB`}:{value:String(n<=0?0:Math.max(1,Math.round(n/e))),unit:`KB`}}function r(e){let{value:t,unit:r}=n(e);return`${t} ${r}`}export{n,r as t};
