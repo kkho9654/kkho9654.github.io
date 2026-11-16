@@ -1,0 +1,1 @@
+var e=e=>JSON.stringify([e.provider,e.baseUrl,e.model,e.updatedAt,e.params,e.pricing??null]),t=e=>{try{return new URL(e).host}catch{return``}};export{e as n,t};

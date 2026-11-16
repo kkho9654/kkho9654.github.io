@@ -1,1 +1,0 @@
-var e=`\\u007f\\u200b\\u200e\\u200f\\u2028\\u2029\\u202a-\\u202e\\u2066-\\u2069\\ufeff`,t=RegExp(`[\\u0000-\\u001f${e}]`,`g`),n=RegExp(`[\\u0000-\\u0008\\u000b-\\u001f${e}]`,`g`),r=e=>e.replace(t,``),i=e=>e.replace(n,``);function a(e,t){if(e.length<=t)return e;let n=``;for(let r of e){if(n.length+r.length>t)break;n+=r}return n}export{r as n,i as r,a as t};

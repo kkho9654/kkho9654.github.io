@@ -1,0 +1,1 @@
+var e={follow:`줄거리를 따르는 이용자`,derail:`줄거리를 벗어나는 이용자`,terse:`짧게만 답하는 이용자`,breaker:`규칙을 깨려는 이용자`};export{e as t};

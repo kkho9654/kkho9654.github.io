@@ -1,1 +1,0 @@
-import{t as e}from"./trigger-uBxSLg31.js";function t(t,n){return t?.length?e(t,n).rows:[]}export{t as eventDiag};
