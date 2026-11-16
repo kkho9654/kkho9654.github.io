@@ -1,0 +1,1 @@
+var e={gte:`이상`,gt:`초과`,lte:`이하`,lt:`미만`,eq:`같다`,ne:`다르다`},t={once:`한 번만`,repeat:`반복(5턴에 한 번까지)`,hold:`조건이 맞는 동안 계속`};export{e as n,t};

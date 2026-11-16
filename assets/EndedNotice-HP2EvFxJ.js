@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-LKYXHABd.js";var t=e();function n({name:e}){return(0,t.jsxs)(`p`,{className:`chat-notice chat-ended`,role:`status`,children:[`엔딩 도달: `,e]})}export{n as default};

@@ -1,1 +1,0 @@
-var e={displayNameMax:30,worksPerAccount:20,publishBodyBytes:262144,relayBodyBytes:1048576,historyMessagesMax:400,streamFirstByteMs:12e4,streamIdleMs:6e4,streamTotalMs:6e5,concurrentStreamsPerAccount:3,scenesSeenMax:200};export{e as t};
