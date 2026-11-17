@@ -1,0 +1,1 @@
+var e={draft:`AI로 작품 초안`,template:`템플릿으로 시작`,card:`카드로 작품 만들기`,receive:`코드로 받기`};export{e as t};
