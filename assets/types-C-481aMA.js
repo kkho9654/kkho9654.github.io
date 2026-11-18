@@ -1,0 +1,1 @@
+var e=1200,t=2400,n=4e3,r=`적용하고 저장`,i=`그래도 적용하고 저장`,a=`지침 저장`,o={draft:`초안(저장 전)`,saved:`저장됨`,now:`바로 저장`,open:`공개되는 글`,live:`진행 중인 방에도`},s=1e6,c=`표시되는 글`,l=`삭제`;export{c as a,a as c,l as i,s as l,i as n,t as o,o as r,n as s,r as t,e as u};
