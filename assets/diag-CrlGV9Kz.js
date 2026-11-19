@@ -1,1 +1,0 @@
-import{n as e}from"./trigger-CaarJBwU.js";function t(t,n){return t?.length?e(t,n).rows:[]}export{t as eventDiag};
