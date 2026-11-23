@@ -1,0 +1,1 @@
+var e=e=>/^https:\/\/api\.x\.ai(\/v1)?\/?$/.test(String(e).trim()),t=e=>/^grok-imagine-/.test(String(e).trim()),n=(n,r)=>e(n)&&t(r);export{n,e as t};
