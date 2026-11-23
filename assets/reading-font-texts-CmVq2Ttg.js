@@ -1,0 +1,1 @@
+var e={group:`화면`,label:`본문 글꼴`,serif:`명조`,sans:`고딕`,help:`채팅 글과 긴 글 칸의 글꼴입니다. 기기에 명조가 없으면 고딕으로 보입니다.`,menuToSans:`본문 글꼴: 명조 (고딕으로 바꾸기)`,menuToSerif:`본문 글꼴: 고딕 (명조로 바꾸기)`};export{e as t};

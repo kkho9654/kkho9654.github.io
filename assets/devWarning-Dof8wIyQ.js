@@ -1,0 +1,1 @@
+function e(e,t,...n){}function t(){return(e,t,n=t)=>{}}function n(e,t,n,...r){}export{e as n,n as r,t};
