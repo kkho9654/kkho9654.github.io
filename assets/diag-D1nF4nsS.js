@@ -1,0 +1,1 @@
+import{n as e}from"./trigger-CrzndXkQ.js";function t(t,n){return t?.length?e(t,n).rows:[]}export{t as eventDiag};
